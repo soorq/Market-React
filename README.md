@@ -13,6 +13,11 @@ Complete:
 - :negative_squared_cross_mark: Deliveiry
 
 ```
-    Здесь может быть
-    Ваша реклама
+    js
+    hide(e){
+        if(e && e.relatedTarget){
+            e.relatedTarget.click();
+        }
+        this.setState({show: false});
+    }
 ```
