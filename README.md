@@ -4,9 +4,9 @@
 # Version-1.01
 - Complete: 
 
-:white_check_mark: Cart
-:white_check_mark: Favorite
-:white_check_mark: Like
-:white_check_mark: Header
-:negative_squared_cross_mark: Registratition
-:white_check_mark: Deliveiry
+- :white_check_mark: Cart
+- :white_check_mark: Favorite
+- :white_check_mark: Like
+- :white_check_mark: Header
+- :negative_squared_cross_mark: Registratition
+- :negative_squared_cross_mark: Deliveiry
