@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soorq/React-app-market/static/css/main.9d5ca3ee.css",
+    "main.js": "/soorq/React-app-market/static/js/main.de279ed0.js",
+    "index.html": "/soorq/React-app-market/index.html",
+    "main.9d5ca3ee.css.map": "/soorq/React-app-market/static/css/main.9d5ca3ee.css.map",
+    "main.de279ed0.js.map": "/soorq/React-app-market/static/js/main.de279ed0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5ca3ee.css",
+    "static/js/main.de279ed0.js"
+  ]
+}
