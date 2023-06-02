@@ -12,11 +12,13 @@ Complete:
 - :negative_squared_cross_mark: Registratition
 - :negative_squared_cross_mark: Deliveiry
 
-```js
+```Скрытие из вне области
+    ```js
     hide(e){
         if(e && e.relatedTarget){
             e.relatedTarget.click();
         }
         this.setState({show: false});
     }
+    ```
 ```
